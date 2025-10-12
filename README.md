@@ -22,3 +22,4 @@ The Monitor has two toggle able modes, storage and transport.
 - 3x LEDs
 - Sound Sensor(Grove)
 - Button
+![alt text](https://github.com/Harry-670/Smart-Environmental-Monitor-for-Nuclear-Payload/blob/main/CNL Hackathon.jpg?raw=true)
