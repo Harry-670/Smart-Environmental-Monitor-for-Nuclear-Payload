@@ -1,5 +1,5 @@
 # Smart-Environmental-Monitor-for-Nuclear-Payload
-Arduino-based project designed to detect changes in Temperature, infrared radation, acceleration, gyroscopic motion, and tampering. Made for the Canadian Nuclear Laboratories Hackathon.
+Arduino-based project designed to detect changes in Temperature, infrared radiation, acceleration, gyroscopic motion, and tampering. Made for the Canadian Nuclear Laboratories Hackathon.
 ## Features
 The Monitor has two toggleable modes, storage and transport.
 ### Storage mode
